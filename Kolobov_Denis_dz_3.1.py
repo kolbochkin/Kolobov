@@ -12,4 +12,4 @@ def translate_number(number):
     print(note.get(number))
 
 
-translate_number("eleven")
+translate_number("ten")
