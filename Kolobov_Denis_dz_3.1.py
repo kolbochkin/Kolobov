@@ -15,3 +15,4 @@ def translate_number(number):
 translate_number("ten")
 translate_number("Six")
 translate_number("eleven")
+translate_number("twelve")
